@@ -1,0 +1,12 @@
+{
+  "name": "hino-key-bot",
+  "version": "0.1.0",
+  "description": "日野鍵管理で用いるリポジトリです。鍵状態管理システムとDisccord Botを作成します。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
