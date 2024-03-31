@@ -8,8 +8,7 @@ initial-setup: check-requirements
 	@echo "=====Node is installed.====="
 	corepack enable
 	@echo "=====Corepack is enabled.====="
-	corepack use yarn
-	yarn -v | grep 4.1.1
+	corepack use yarn@4.1.1
 	@echo "=====Yarn is installed.====="
 	yarn install
 	yarn dev
