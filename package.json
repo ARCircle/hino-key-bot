@@ -8,9 +8,9 @@
   },
   "license": "ISC",
   "volta": {
-    "node": "20.12.0"
+    "node": "20.12.1",
+    "yarn": "4.1.1"
   },
-  "packageManager": "yarn@4.1.1+sha256.f3cc0eda8e5560e529c7147565b30faa43b4e472d90e8634d7134a37c7f59781",
   "devDependencies": {
     "@types/node": "^20.12.2",
     "ts-node": "^10.9.2",
